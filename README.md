@@ -2,7 +2,7 @@
 Name: Coastal Bean Cafe 
 Founded in 2018, Coastal Bean Cafe is a small, family-run coffee shop located in Durban, South Africa. The Cafe Builds itself on fairly traded beans and giving a welcoming environment for both locals and tourists. It has made a loyal customer base through communication and social media but currently has no online presence. 
 
-Mission and Vision  
+Mission and ision  
 
 To give good quality, professionally served coffee while creating a community space for relaxation and connection. 
 To become Durban’s favourite community coffee hub and grow into online coffee bean sales. 
